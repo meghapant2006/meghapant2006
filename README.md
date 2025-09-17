@@ -11,9 +11,6 @@
 - Database Management (MongoDB, MySQL)  
 - Python Programming for scripting & problem-solving  
 
-## 🏆 Achievements  
-- 🥇 Winner of **Smart India Hackathon 2024** at IME Sahibabad  
-
 ## 📌 Currently Learning  
 - Advanced **C++ (OOP, DSA)**  
 - System Design & Deployment (Vercel, Netlify, GitHub Pages)  
